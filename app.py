@@ -6,7 +6,7 @@ import calendar
 from io import BytesIO
 
 st.set_page_config(page_title="习惯追踪", layout="wide")
-st.title("📘 高级习惯追踪器")
+st.title("📘 习惯追踪")
 
 # ======================
 # 初始化数据
